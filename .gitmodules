@@ -1,3 +1,6 @@
 [submodule "vcpkg-example-registry"]
 	path = vcpkg-example-registry
 	url = git@github.com:sunzhenkai/vcpkg-example-registry.git
+[submodule "vcpkg-port-example"]
+	path = vcpkg-port-example
+	url = git@github.com:sunzhenkai/vcpkg-port-example.git
