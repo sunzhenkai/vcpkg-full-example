@@ -4,3 +4,6 @@
 [submodule "vcpkg-port-example"]
 	path = vcpkg-port-example
 	url = git@github.com:sunzhenkai/vcpkg-port-example.git
+[submodule "vcpkg-example-project"]
+	path = vcpkg-example-project
+	url = git@github.com:sunzhenkai/vcpkg-example-project.git
